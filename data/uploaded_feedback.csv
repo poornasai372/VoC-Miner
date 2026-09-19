@@ -1,0 +1,31 @@
+id,text,source,date
+1,The app takes forever to load,review,2026-01-05
+2,Customer support took 4 days to respond,support_ticket,2026-01-06
+3,I love the new dashboard,review,2026-01-07
+4,The application freezes whenever I upload a PDF,support_ticket,2026-01-08
+5,The app is extremely slow when opening,review,2026-01-09
+6,It takes too long to get a response from support,support_ticket,2026-01-10
+7,The new dashboard looks really clean,review,2026-01-11
+8,Uploading documents causes the app to freeze,support_ticket,2026-01-12
+9,Loading the application is painfully slow,review,2026-01-13
+10,Support answered my issue after several days,support_ticket,2026-01-14
+11,Opening the app takes way too long,review,2026-01-15
+12,The app is slow every time I start it,interview,2026-01-16
+13,Why does the application take so long to open?,interview,2026-01-17
+14,Support usually takes days to reply,review,2026-01-18
+15,I waited almost a week for customer support,interview,2026-01-19
+16,Customer service response time is frustrating,review,2026-01-20
+17,PDF uploads keep crashing the application,review,2026-01-21
+18,The app crashes when I upload large documents,interview,2026-01-22
+19,Uploading a PDF makes the whole app freeze,review,2026-01-23
+20,Document upload is unreliable and often crashes,support_ticket,2026-01-24
+21,The dashboard is much easier to use now,review,2026-01-25
+22,I really like the redesigned dashboard,interview,2026-01-26
+23,The new dashboard is clean and intuitive,review,2026-01-27
+24,The interface looks much better after the update,support_ticket,2026-01-28
+25,The search feature is difficult to use,review,2026-01-29
+26,Finding old documents takes too many clicks,interview,2026-01-30
+27,I cannot easily find my previous reports,support_ticket,2026-01-31
+28,The search results are confusing,review,2026-02-01
+29,The application works perfectly after the latest update,review,2026-02-02
+30,Very happy with how quickly I can create reports now,interview,2026-02-03
