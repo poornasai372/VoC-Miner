@@ -92,7 +92,7 @@ Similar feedback can then be identified using semantic similarity rather than re
 Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone :`https://github.com/poornasai372/VoC-Miner`
 cd VoC-Miner
 ```
 
